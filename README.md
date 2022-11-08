@@ -2,7 +2,7 @@
 
 ## Contexto
 
-La administración y gestión de personal dentro un hospital es sumamente importante para llevar un control de que pacientes entran y salen de las instalaciones, así como de los médicos que operan dentro de este, al igual que el personal que se encarga de limpieza, transporte y administración, esta problemática puede ser solucionada con un sistema similar a una base de datos. El objetivo de este sistema es lograr mantener un buen control dentro de un hospital, de esta manera cualquier imprevisto que suceda, ya sea que le haya ocurrido algo a un paciente o se deba sancionar a una persona por incumplimiento de alguna norma, se puede contactar de manera inmediata a la persona encargada de lo sucedido.
+La administración y gestión de personal dentro un hospital es sumamente importante para llevar un control de que pacientes entran y salen de las instalaciones, así como de los médicos que operan dentro de este. Además de que el personal que se encarga de limpieza, transporte y administración, esta problemática puede ser solucionada con un sistema similar a una base de datos. El objetivo de este sistema es lograr mantener un buen control dentro de un hospital, de esta manera cualquier imprevisto que suceda, ya sea que le haya ocurrido algo a un paciente o se deba sancionar a una persona por incumplimiento de alguna norma, se puede contactar de manera inmediata a la persona encargada de lo sucedido.
 
 ## Explicación
 
