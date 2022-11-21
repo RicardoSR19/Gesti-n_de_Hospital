@@ -25,6 +25,7 @@ int main(){
 
     string op;
     while(true){
+        system("cls");
         //Bienvenida e instrucciones
         cout<<"\n\tBienvenido a la base de datos del Hosipital"<<endl;
         cout<<"\n\t\t1) Registrar medico\n\t\t2) Registrar paciente\n\t\t3) Registrar personal de limpieza\n\t\t4) Registrar personal de administracion";
