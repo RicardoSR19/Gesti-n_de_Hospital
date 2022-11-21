@@ -15,7 +15,7 @@ Este programa será realizado a partir de C++, donde se podrá ingresar usuarios
 
 ## Instrucciones
 <ol>
- <li>Debemos descargar todos los archivos contenidos en la carpeta Gestion_Hospital_Codigo</li>
+ <li>Debes descargar todos los archivos contenidos en la carpeta Gestion_Hospital_Codigo</li>
  <li>Una vez descargados los archivos debemos de verificar si tenemos instalado el compilador de g++ de lo contrario no será posible ejecutar el programa <br><i>Nota: Si no se cuentas con el compilador ir al siguiente link y seguir los pasos del <a href="https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/">tutorial</a> para descargar g++</i> <br>https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/</li>
  <li>Ya que se tenga instalado g++ y los archivos del programa, debemos de abrir la consola</li>
  <li>Abierta la consola debemos dirigirnos a la ruta donde tengamos guardado el programa, para esto normalmente la consola se abre en el disco C, si tenemos los archivos del programa en otro disco primero se debe de cambiar de disco, para esto se escribe el nombre del disco seguido por dos puntos (ejemplo D:)</li>
