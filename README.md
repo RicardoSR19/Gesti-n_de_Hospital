@@ -34,3 +34,7 @@ Este programa será realizado a partir de C++, donde se podrá ingresar usuarios
   - 10 usuarios del Personal de transporte
   - 10 usuarios del Personal de administración
 - Los Médicos solo pueden tener asignados a 3 pacientes
+- Es necesario cerrar el programa para borrar los datos de las personas
+- No es posible quitarle un paciente ya asignado a un médico
+- No es posible eliminar ni editar datos de una persona
+
