@@ -1,9 +1,9 @@
 #include "Manejo_Archivo.h"
 
-//Funci�n para guardar la base de datos
+//Funcion para guardar la base de datos
 void guardarArchivo(Paciente pacientes[], Personal_administracion admins[], Personal_limpieza limpiezas[], Personal_transporte transportes[], Medico medicos[]){
     ofstream baseDatos;
-    baseDatos.open("Base de Datos Hospital.txt"); //Creaci�n del archivo
+    baseDatos.open("Base de Datos Hospital.txt"); //Creacion del archivo
     baseDatos<<"\t\t\tBase de Datos Hospital\n";
     baseDatos<<"\tPaciente\n\n";
     for(int i=0;i<10;i++){ //Guardado de los personas tipo pacientes
