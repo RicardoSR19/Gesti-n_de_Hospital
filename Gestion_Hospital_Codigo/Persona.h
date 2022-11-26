@@ -6,7 +6,7 @@ class Persona{
         string nombre, genero, contacto;
         int edad;
 
-    public: //Métodos
+    public: //Metodos
         Persona();
         Persona(string, string, int, string); //Constructor
 
