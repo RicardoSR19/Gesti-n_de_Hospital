@@ -6,7 +6,7 @@ class Personal_limpieza:Persona{ //Herencia con clase Persona
         string cargo;
         int piso;
 
-    public: //Métodos
+    public: //Metodos
         Personal_limpieza();
         Personal_limpieza(string, string, int, string, string, int); //Constructor
 
