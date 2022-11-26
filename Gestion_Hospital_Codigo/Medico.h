@@ -9,7 +9,7 @@ class Medico:Persona{ //Herencia con clase Persona
         string especialidad, cargo;
         int anios_exp, cedula;
 
-    public: //Métodos
+    public: //Motodos
         Medico();
         Medico(string, string, int, string, string, string, int, int); //Constructor
 
@@ -18,6 +18,7 @@ class Medico:Persona{ //Herencia con clase Persona
         string getCargo();
         int getAnios();
         int getCedula();
+        string nombreMedico();
 
         //Super string de clase Persona
         string getMedicoInfo();
@@ -28,7 +29,7 @@ class Medico:Persona{ //Herencia con clase Persona
         void setAnios(int);
         void setCedula(int);
 
-        //Relación de agregación con paciente
+        //Relacion de agregacion con paciente
         void agregarPaciente(Paciente, int);
         string cantidadPacientes();
 };
