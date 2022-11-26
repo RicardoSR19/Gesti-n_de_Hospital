@@ -6,7 +6,7 @@ class Personal_administracion:Persona{ //Herencia con clase Persona
         string cargo;
         int piso;
 
-    public: //Métodos
+    public: //Metodos
         Personal_administracion();
         Personal_administracion(string, string, int, string, string, int); //Constructor
 
