@@ -9,7 +9,7 @@ class Paciente:Persona{ //Herencia con clase Persona
         string enfermedad, seguro_medico;
         int cuarto, id;
 
-    public: //Métodos
+    public: //Metodos
         Paciente();
         Paciente(string, string, int, string, string, string, int, int); //Constructor
 
