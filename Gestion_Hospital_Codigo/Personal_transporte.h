@@ -6,7 +6,7 @@ class Personal_transporte:Persona{ //Herencia con clase Persona
         string vehiculo_asignado, licencia;
         int anios_exp;
 
-    public: //Métodos
+    public: //Metodos
         Personal_transporte();
         Personal_transporte(string, string, int, string, string, string, int); //Constructor
 
