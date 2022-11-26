@@ -51,12 +51,18 @@ int Medico::getCedula(){
     return cedula;
 }
 
-//Relación de agregación con la clase Paciente
+string Medico::nombreMedico(){
+    string aux;
+    aux = getNombre();
+    return aux;
+}
+
+//Relacion de agregacion con la clase Paciente
 void Medico::agregarPaciente(Paciente paciente, int posicion){
     pacientes[posicion]=paciente;
 }
 
-//Función para imprimir los pacientes asignados
+//Funcion para imprimir los pacientes asignados
 string Medico::cantidadPacientes(){
     stringstream aux;
     for(int i = 0 ; i <3; i++){
