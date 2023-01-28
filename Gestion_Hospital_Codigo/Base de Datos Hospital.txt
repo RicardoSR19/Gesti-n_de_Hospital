@@ -1,0 +1,159 @@
+			Base de Datos Hospital
+	Paciente
+
+Nombre: Enrique Guzman
+Genero: Hombre
+Edad: 37
+Contacto: 442 322 1359
+Enfermedad: Bronquitis aguda
+Seguro medico: Seguros Tec
+Cuarto: 4205
+ID: 1401
+
+
+Nombre: Ricardo Roa
+Genero: Hombre
+Edad: 19
+Contacto: 442 088 1235
+Enfermedad: Influenza tipo A
+Seguro medico: Seguros Tec
+Cuarto: 4301
+ID: 1138
+
+
+Nombre: Guillermo Galindo
+Genero: Hombre
+Edad: 45
+Contacto: 442 908 3218
+Enfermedad: Hipertensión arterial
+Seguro medico: Seguros Tec
+Cuarto: 4302
+ID: 1020
+
+
+
+	Personal de administracion
+
+Nombre: Roberto Perez
+Genero: Hombre
+Edad: 29
+Contacto: 442 412 8976
+Cargo: Recepcionista
+Piso: 4
+
+
+Nombre: Alejandro Jaik
+Genero: Hombre
+Edad: 28
+Contacto: 442 456 9243
+Cargo: Secretario
+Piso: 2
+
+
+Nombre: Alexa Martinez
+Genero: Mujer
+Edad: 35
+Contacto: 442 021 5647
+Cargo: Office Manager
+Piso: 10
+
+
+
+	Personal de limpieza
+
+Nombre: Jose Olvera
+Genero: Hombre
+Edad: 34
+Contacto: 442 403 1203
+Cargo: Intendente
+Piso: 3
+
+
+Nombre: Antonio Quintero
+Genero: Hombre
+Edad: 38
+Contacto: 442 324 6789
+Cargo: Especialista en esterilizacion de equipos
+Piso: 4
+
+
+Nombre: Raul Molina
+Genero: Hombre
+Edad: 48
+Contacto: 442 132 1324
+Cargo: Intendente
+Piso: 5
+
+
+
+	Personal de transporte
+
+Nombre: Jimena Cuevas
+Genero: Mujer
+Edad: 24
+Contacto: 442 132 1927
+Vehiculo: Camioneta Mercedes
+Tipo de licencia: A
+Anios de experiencia: 4
+
+
+Nombre: Valeria Jasso
+Genero: Mujer
+Edad: 22
+Contacto: 442 098 9874
+Vehiculo: Camioneta Volkswagen
+Tipo de licencia: B
+Anios de experiencia: 2
+
+
+Nombre: Rafael Gonzales
+Genero: Hombre
+Edad: 28
+Contacto: 442 432 7896
+Vehiculo: Camioneta Nissan
+Tipo de licencia: B
+Anios de experiencia: 8
+
+
+
+	Personal medico
+
+Nombre: Mario Castellanos
+Genero: Hombre
+Edad: 45
+Contacto: 442 093 4908
+Especialidad: Neurocirujano
+Cargo: Medico Responsable
+Anios de experiencia: 20
+Cedula: 2986427
+Paciente 1: Sin Asignar
+Paciente 2: Sin Asignar
+Paciente 3: Sin Asignar
+
+
+Nombre: Fernanda Barrera
+Genero: Mujer
+Edad: 32
+Contacto: 442 746 5332
+Especialidad: Cirujana General
+Cargo: Medico Responsable
+Anios de experiencia: 7
+Cedula: 1786253
+Paciente 1: Sin Asignar
+Paciente 2: Sin Asignar
+Paciente 3: Enrique Guzman
+
+
+Nombre: Jimena Trejo
+Genero: Mujer
+Edad: 40
+Contacto: 442 534 1723
+Especialidad: Cardiologa
+Cargo: Medico Responsable
+Anios de experiencia: 15
+Cedula: 3795241
+Paciente 1: Sin Asignar
+Paciente 2: Sin Asignar
+Paciente 3: Sin Asignar
+
+
