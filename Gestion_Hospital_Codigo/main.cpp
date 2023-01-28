@@ -1,3 +1,4 @@
+//Editado por Israel Rios 27/01/2023
 //librerias y clases utilizadas
 #include <windows.h>
 #include <iostream>
